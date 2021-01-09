@@ -2,7 +2,7 @@
 
 # MERN App
 
-This repository contains a simple MERN app as part of the **Deploying a Production ready React-Express App on EC2 with CI/CD** gist tutorial which you can find [here](https://gist.github.com/euvel/b564b40e306707c8ff6ca9c67d38fb6f)
+This repository contains a Dockerized MERN app boilerplate.
 
 ## Table of Contents
 
