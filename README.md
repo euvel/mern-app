@@ -134,9 +134,6 @@ It should look something like this:
   
   - In another terminal session run the command `npm start` at the root directory of the project as we did with the frontend.
   It should look something like this:
-  
-  ![mern-app_run_server](https://user-images.githubusercontent.com/41876764/87258208-ad2f2100-c456-11ea-80c9-7ca9a3624462.png)
-  
   You can see that we have the express server running on port `5000`.
   
   - Now switch back to the http://localhost:3000 and refresh the page. You should see the Message at the bottom be updated!
